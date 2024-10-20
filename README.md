@@ -1,6 +1,11 @@
 # Fokir CV
 
 Welcome to the **Fokir CV** project! This project is a simple, responsive web-based CV template that showcases professional experiences, skills, and contact information.
+![Fokir Cv Preview](images/CVFokir.png)
+![Fokir About Preview](images/FokiaAout.png)
+![Fokir OurServices Preview](images/OurServices.png
+)
+
 
 ## Project Overview
 
